@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+## API Source
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The API source is Open Weather and using London statically as default city but it could be changeable in the future updates (Get the city list from a dropdown list if it's limited list or using phrase search for comprehensive city list).
+
 
 ## Available Scripts
 
